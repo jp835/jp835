@@ -1,6 +1,6 @@
 # 👋 Hola, soy Juan Muñoz
 
-Mi nombre es Juan Pablo Muñoz, estudiante de Ingeniería Matemática en la Universidad de Chile, con miras a entrar al Magíster de ciencia de datos. 
+Mi nombre es Juan Pablo Muñoz, estudiante de Ingeniería civil Matemática en la Universidad de Chile, con miras a entrar al Magíster de ciencia de datos. 
 
 ## 🧑‍💻 Sobre mi
 
