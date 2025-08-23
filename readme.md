@@ -1,19 +1,19 @@
 # 👋 Hola, soy Juan Muñoz
 
-Mi nombre es Juan Pablo Muñoz, estudiante de Ingenieria Matematica en la Universidad de Chile, con miras a entrar al Masgister de ciencia de datos. 
+Mi nombre es Juan Pablo Muñoz, estudiante de Ingeniería Matemática en la Universidad de Chile, con miras a entrar al Magíster de ciencia de datos. 
 
 ## 🧑‍💻 Sobre mi
 
-- 🎓 Actualmente estudiando Ingenieria Matematica
-- 💡 Mis intereses principales son Machine Learning, optimizacion matematica y teoria de grafos
-- 🌱 Me gusta descubrir como la parte teorica de mi carrera se mezcla con la ciencia de datos permitiendo la aplicacion practica de diferentes topicos,y como estas ramas se aplican a otras areas, en especial en el area de la salud.
-- 🎮 Mis hobbies son principalmente ver anime, cocinar recetas nuevas, jugar videojuegos, morir en el elden ring y sufrir viendo futbol
+- 🎓 Actualmente estudiando Ingeniería Matemática.
+- 💡 Mis intereses principales son **Machine Learning**, **optimizacion matemática**- y **teoría de grafos**.
+- 🌱 Me gusta descubrir como la parte teórica de mi carrera se mezcla con la ciencia de datos permitiendo la aplicacion practica de diferentes topicos,y cómo estas ramas se aplican a otras areas, en especial en el area de la salud.
+- 🎮 Mis hobbies son principalmente ver anime, cocinar recetas nuevas, jugar videojuegos, morir en el elden ring y sufrir viendo futbol.
 
 
 
 ## 🛠️ Tech Stack
 
-### Lenaguajes
+### Lenguajes
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
@@ -35,4 +35,8 @@ Mi nombre es Juan Pablo Muñoz, estudiante de Ingenieria Matematica en la Univer
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jp835&show_icons=true&theme=radical)
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=jp835&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+</div>
