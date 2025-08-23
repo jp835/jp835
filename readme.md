@@ -5,8 +5,8 @@ Mi nombre es Juan Pablo Muñoz, estudiante de Ingeniería Matemática en la Univ
 ## 🧑‍💻 Sobre mi
 
 - 🎓 Actualmente estudiando Ingeniería Matemática.
-- 💡 Mis intereses principales son **Machine Learning**, **optimizacion matemática**- y **teoría de grafos**.
-- 🌱 Me gusta descubrir como la parte teórica de mi carrera se mezcla con la ciencia de datos permitiendo la aplicacion practica de diferentes topicos,y cómo estas ramas se aplican a otras areas, en especial en el area de la salud.
+- 💡 Mis intereses principales son **Machine Learning**, **optimizacion matemática** y **teoría de grafos**.
+- 🌱 Me gusta descubrir como la parte teórica de mi carrera se mezcla con la ciencia de datos permitiendo la aplicacion practica de diferentes topicos, y cómo estas ramas se aplican a otras areas, en especial en el area de la salud.
 - 🎮 Mis hobbies son principalmente ver anime, cocinar recetas nuevas, jugar videojuegos, morir en el elden ring y sufrir viendo futbol.
 
 
