@@ -1,4 +1,8 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7441A&background=4DFF8C00&center=true&width=435&lines=Bienvenidos+a+mi+github!)](https://git.io/typing-svg)
+# <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7441A&background=4DFF8C00&center=true&width=435&lines=Bienvenidos+a+mi+github!" alt="Typing SVG" />
+  </a>
+</p>
 
 ## 👋 Hola, soy Juan Muñoz
 
