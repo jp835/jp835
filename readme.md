@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7441A&background=4DFF8C00&center=true&width=435&lines=Bienvenidos+a+mi+github!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7441A&background=4DFF8C00&center=true&width=435&lines=Bienvenidos+a+mi+github!)](https://git.io/typing-svg)
 
-# 👋 Hola, soy Juan Muñoz
+## 👋 Hola, soy Juan Muñoz
 
 Mi nombre es Juan Pablo Muñoz, estudiante de Ingeniería civil Matemática en la Universidad de Chile, con miras a entrar al Magíster de ciencia de datos. 
 
